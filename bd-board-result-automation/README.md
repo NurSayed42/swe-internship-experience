@@ -145,7 +145,7 @@ Records with incomplete data (missing roll, board, or year) are logged and skipp
 
 ## Use Case
 
-Designed for educational institutions, coaching centers, or administrative offices that need to process exam results for large student batches — replacing hours of manual portal lookups with a single API call.
+Designed for financial institutions and corporate HR teams that need to verify academic credentials of job applicants at scale. During recruitment drives — where hundreds of candidates submit SSC and HSC results — manual portal lookups are time-consuming and error-prone. This system automates the entire verification pipeline, cross-checking each applicant's self-declared result against the official Bangladesh Education Board records and storing the verified outcome directly in the applicant database.
 
 ---
 
