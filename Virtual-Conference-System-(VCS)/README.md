@@ -172,6 +172,6 @@ It provides a strong foundation for building a production-ready conferencing sol
 
 ## Author
 
-**Anas Karim**
+**Nur Sayed**
 
 Software Developer
