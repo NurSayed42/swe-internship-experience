@@ -118,6 +118,9 @@ Each student record tracks both SSC and HSC examination outcomes independently.
 
 ## Design Highlights
 
+**Selenium-based browser automation**
+The system uses Selenium 4 with WebDriverManager to drive a Chrome browser — handling dynamic page rendering, dropdown selection, form filling, and element-level screenshot capture entirely through code. No manual browser interaction is required at any point during execution.
+
 **Stateful form preservation**
 The browser form (board, year, roll, registration) is populated only once per student. On a wrong CAPTCHA, only the CAPTCHA image is refreshed via the reload button — all other form data remains intact. This eliminates redundant page loads and reduces per-attempt overhead significantly.
 
